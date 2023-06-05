@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi 👋, I'm Omar Abragh
 
-<!--
-**oabragh/oabragh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate full-stack developer from Morocco
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Elixir, (more) Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available in my [**portfolio**](oabragh.pages.dev)
+
+- 💬 Ask me about **Python, Svelte, Tailwind**
+
+- 📫 How to reach me: **oabragh@outlook.com**
+
+### Connect with me:
+<a href="https://twitter.com/OmarAbragh" target="blank">
+    <img align="center" src="./icons/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://discord.gg/SZgGfRXcCQ" target="blank">
+    <img align="center" src="./icons/discord.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/OmarAbragh" target="blank">
+    <img align="center" src="./icons/linkedin.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@OAbragh" target="blank">
+    <img align="center" src="./icons/youtube.svg" height="30" width="40" />
+</a>
