@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Elixir, (more) Rust**
 
-- 👨‍💻 All of my projects are available in my [**portfolio**](oabragh.pages.dev)
+- 👨‍💻 All of my projects are available in my [**portfolio**](https://oabragh.pages.dev)
 
 - 💬 Ask me about **Python, Svelte, Tailwind**
 
