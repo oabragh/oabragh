@@ -1,13 +1,6 @@
-# Hi 👋, I'm Omar Abragh
-
-### A passionate full-stack developer from Morocco
-
 - 🌱 I’m currently learning **Elixir, (more) Rust**
-
 - 👨‍💻 All of my projects are available in my [**portfolio**](https://oabragh.pages.dev)
-
 - 💬 Ask me about **Python, Svelte, Tailwind**
-
 - 📫 How to reach me: **oabragh@outlook.com**
 
 ### Connect with me:
