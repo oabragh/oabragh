@@ -9,6 +9,6 @@
 - 🐍 I can write [Python](https://python.org)
 
 Feel free to reach out for collaboration! 😄
+You can find me mostly on Discord: *@oabragh* (I'm invisible btw)
 
-You can find me mostly on Discord: *@oabragh* (I'm invisible btw)<br/>
 ![My discord profile](https://discord-readme-badge.vercel.app/api?id=938904218532720661)
