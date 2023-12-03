@@ -1,14 +1,11 @@
 ![Banner](assets/banner.png)
 
-# Hi there! 👋
+# Hey, I'm Omar! 🚀
 
-- 🧑‍💻 I'm a 16-year-old programmer
-- 📚 I'm currently learning more about [Rust](https://rust-lang.org)
-- 🌐 I make websites with [SvelteKit](https://kit.svelte.dev) & [TailwindCSS](https://tailwindcss.com)
-- 🚀 I'm working on my own compiler as a side-project
-- 🐍 I can write [Python](https://python.org)
+- 🤓💻 A 16-year-old coding nerd from Morocco
+- 📚 I primarily code in [Rust](https://rust-lang.org/), but I also have experience with [Python](https://python.org) & [Typescript](https://typescriptlang.org)
+- 👨‍💻 Crafting a compiler in my free time because, why not?
 
-Feel free to reach out for collaboration! 😄
-You can find me mostly on Discord: *@oabragh* (I'm invisible btw)
+Feel free to reach out for anything; I'm mostly on Discord: *@oabragh*
 
-![My discord profile](https://discord-readme-badge.vercel.app/api?id=938904218532720661)
+![My Discord profile](https://discord-readme-badge.vercel.app/api?id=938904218532720661)
