@@ -9,3 +9,5 @@
 Feel free to reach out for anything; I'm mostly on Discord: *@oabragh*
 
 ![My Discord profile](https://discord-readme-badge.vercel.app/api?id=938904218532720661)
+
+(credits to chatgpt)
